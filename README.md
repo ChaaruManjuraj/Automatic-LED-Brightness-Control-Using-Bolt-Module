@@ -12,6 +12,8 @@ This python code automatically reads the intensity available around for every 10
 ### Circuit Connection
 Refer this URL for connections: https://app.lucidchart.com/publicSegments/view/5c2cf8fc-b954-4ede-a6a6-bcfc410cd408
 # How to Run:
+Edit the **config.py** file and insert your *Private API Key* and *Device ID* 
+
 Use the command 
 `python3 automated_led.py` 
 For more information, visit https://www.cs.bu.edu/courses/cs108/guides/runpython.html
